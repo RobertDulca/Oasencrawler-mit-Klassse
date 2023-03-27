@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1678062930 source:c:\users\mrsnow\documents\bachelor fhtw\semester 2\objektorintierte programmierung\2_oasencrawler mit klassse_dulca_codeblocks\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	"classes_header.h"
+
+1678062613 c:\users\mrsnow\documents\bachelor fhtw\semester 2\objektorintierte programmierung\2_oasencrawler mit klassse_dulca_codeblocks\classes_header.h
+
+1678062839 source:c:\users\mrsnow\documents\bachelor fhtw\semester 2\objektorintierte programmierung\2_oasencrawler mit klassse_dulca_codeblocks\player.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	"classes_header.h"
+
